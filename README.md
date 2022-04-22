@@ -1,5 +1,5 @@
 #For MSE 466:  Analytical Electron Microscopy at Northwestern University 
 
-Instructors: Roberto dos Reis, Vinayak P. Dravid
+Instructors: Vinayak P. Dravid, Roberto dos Reis
 
 TAs: Stephanie Ribet, Matt Cheng 
