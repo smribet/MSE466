@@ -1,4 +1,4 @@
-MSE 466:  Analytical Electron Microscopy at Northwestern University 
+2022SP_MAT_SCI_466-0_SEC1 Analytical Electron Microscopy at Northwestern University 
 
 Instructors: Vinayak P. Dravid, Roberto dos Reis
 
