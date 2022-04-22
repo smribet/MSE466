@@ -2,4 +2,4 @@
 
 Instructors: Vinayak P. Dravid, Roberto dos Reis
 
-TAs: Stephanie Ribet, Matt Cheng 
+TAs: Matt Cheng, Stephanie Ribet
